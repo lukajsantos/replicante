@@ -1,0 +1,13 @@
+button {
+    background-color: #DBA600; /* Cor do botão */
+    color: #001931; /* Cor do texto do botão */
+    border: none; /* Remove a borda padrão */
+    padding: 10px; /* Espaçamento interno do botão */
+    width: 100%; /* Faz o botão ocupar toda a largura do contêiner */
+    border-radius: 7px; /* Bordas arredondadas */
+    cursor: pointer; /* Muda o cursor ao passar o mouse sobre o botão */
+}
+
+button:hover {
+    background-color: #b38500; /* Cor do botão ao passar o mouse */
+}
